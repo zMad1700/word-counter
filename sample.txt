@@ -1,0 +1,5 @@
+Node.js is a JavaScript runtime that allows developers to run JavaScript outside the browser.
+
+Node.js can be used to build websites, APIs, servers, command line applications, and many other types of software.
+
+This activity teaches us how to read files using Node.js and count the number of lines, words, and characters in a text file.
